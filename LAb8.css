@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+}
+.mainDiv{
+    margin: 0;
+}
+.saveDiv{
+    margin: 0;
+}
+label{
+    display: flex;
+}
